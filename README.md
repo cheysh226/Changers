@@ -14,3 +14,4 @@
 
 # glideapp 사용
 <img width="336" alt="스크린샷 2020-12-07 오후 2 59 18" src="https://user-images.githubusercontent.com/61865479/101314879-cd93c800-389c-11eb-885f-47e01328f24d.png">
+<img width="319" alt="스크린샷 2020-12-07 오후 3 00 53" src="https://user-images.githubusercontent.com/61865479/101314980-059b0b00-389d-11eb-89f2-5201121d1464.png">
