@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+          color: black;
+          text-align: center;
+          font-size:x-large;
+        }
+      </style>
+</head>
+<body>
+    <button onclick="location.href='{% url 'script' %}'">가격비교!</button> <hr>
+    <p>순서대로 |B5 크림| |폼클렌징| | 토너 | |우루우루| |Aestura| |상하 크림| |해찬 크림|</p>
+    {% if data %}
+    {% for d in data %}
+        <li>{{d}}</li>
+    {% endfor %}
+    {% else %}
+    {% endif %}
+
+</body>
+</html>
